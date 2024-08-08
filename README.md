@@ -4,4 +4,5 @@ Compétences évaluées :
 Manipuler des DataFrames
 
 Utiliser des librairies spécialisées pour les traitements data
+
 Rédiger et présenter une méthodologie d'exploration et d'analyse des données
